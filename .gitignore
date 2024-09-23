@@ -1,0 +1,15 @@
+# Ignore the default executable output (a.out) and other executable files
+a.out
+*.out
+*.exe
+
+# Ignore object files generated during compilation
+*.o
+
+# Ignore any core dumps
+core
+
+# Ignore temporary files created by editors (optional)
+*~
+*.swp
+
